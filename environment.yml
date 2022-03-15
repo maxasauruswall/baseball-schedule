@@ -1,0 +1,11 @@
+name: baseball
+channels:
+- conda-forge
+dependencies:
+- python
+- pip 
+- ortools
+- matplotlib
+- numpy
+- pandas
+- seaborn
